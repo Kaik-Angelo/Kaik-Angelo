@@ -3,7 +3,7 @@
 <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=FF0000&vCenter=true&width=435&lines=Hi!;I´m+Kaik+Angelo!;Studing+for+become+a+Full+Stack+Developer..."/>
 
 <p> 📖 <i>
-Um desenvolvedor de software iniciante com forte aptidão para a resolução de problemas e comunicação assertiva, destacando-se em ambientes de equipe colaborativos. Comprometido em aprender programação, possui um conjunto de habilidades diversificado e promissor, com foco em escrever código de alta qualidade. </i></p>
+Dev full stack iniciante, Estudando TI nível técnico, hábil em resolver problemas,  aprendendo linguagens como Python e Java, formado em comunicação assertiva e atendimento ao publico, habilidades destacadas em ambientes onde o trabalho em equipe é primordial, busco absorver e me comprometo a aprender o máximo posível sobre esse mundo vasto da programação. </i></p>
 <i>
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="right" />
 </i>
